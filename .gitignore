@@ -1,4 +1,7 @@
-.variables
-variables
-./variables
-/variables
+.variables.tf
+variables.tf
+./variables.tf
+/variables.tf
+
+readterra.zip
+writeterra.zip
