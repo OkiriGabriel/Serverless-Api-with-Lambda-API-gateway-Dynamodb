@@ -5,7 +5,7 @@
   <h1 align="center">
 Architecture
     <br>
-    <a href="https://github.com/OkiriGabriel/Serverless-Api-with-Lambda-API-gateway-Dynamodb"><img alt="build-status" src="https://ibb.co/NLqVYZJ" /></a>
+    <a href="https://github.com/OkiriGabriel/Serverless-Api-with-Lambda-API-gateway-Dynamodb"><img alt="build-status" src="https://i.ibb.co/3kvV8wn/api-gateway-lambda.jpg" /></a>
     
   </h1>
 </p>
